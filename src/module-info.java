@@ -1,0 +1,2 @@
+module GenericsUC1 {
+}
